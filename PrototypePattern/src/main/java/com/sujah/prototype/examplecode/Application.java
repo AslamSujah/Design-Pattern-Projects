@@ -15,6 +15,5 @@ public class Application {
         System.out.println(car2);
 
 
-
     }
 }
