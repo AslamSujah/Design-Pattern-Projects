@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbe2ff8c-1bb6-4097-a25b-d51a0bf6cfc9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c1c7IEJo0OaJB4ia9NJpMWsrse" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sujah.builder.examplecode.Application" />
+      <module name="BuilderPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sujah.builder.examplecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" width="814" height="722" key="#Intentions" timestamp="1589702222229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" width="814" height="722" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1589702222229" />
+    <state x="958" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1589704608427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589704608427" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1589705137205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589705137205" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1589705137205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589705137205" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1589705137205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589705137205" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1589705137205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589705137205" />
+    <state x="559" y="58" key="SettingsEditor" timestamp="1589701090623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="559" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589701090623" />
+    <state x="361" y="75" key="scopes" timestamp="1589702193293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="scopes/0.0.1536.824@0.0.1536.824" timestamp="1589702193293" />
+  </component>
+</project>
