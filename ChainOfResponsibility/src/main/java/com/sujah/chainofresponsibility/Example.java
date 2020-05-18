@@ -1,4 +1,4 @@
-package com.sujah.chainofresponsibility.examplecode;
+package com.sujah.chainofresponsibility;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
