@@ -40,6 +40,6 @@ public class Application {
 
         careTaker.revert(cart);
         System.out.println(cart);
-        
+
     }
 }
